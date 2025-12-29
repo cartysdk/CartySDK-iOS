@@ -1,0 +1,11 @@
+framework module CartySDK {
+  umbrella header "CartySDK.h"
+  export *
+
+  module * { export * }
+}
+
+module CartySDK.Swift {
+  header "CartySDK-Swift.h"
+  requires objc
+}
