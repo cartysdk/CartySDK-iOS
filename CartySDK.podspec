@@ -11,8 +11,6 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => "https://github.com/cartysdk/CartySDK-iOS.git", :tag => spec.version }
   spec.platform     = :ios, '13.0'
   spec.ios.deployment_target = '13.0'
-  spec.swift_version = '5.0'
-  spec.requires_arc = true
   spec.pod_target_xcconfig = {
     'OTHER_LDFLAGS' => '-ObjC'
   }
