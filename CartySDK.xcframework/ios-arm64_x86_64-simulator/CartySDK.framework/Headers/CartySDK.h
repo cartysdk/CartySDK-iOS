@@ -6,7 +6,7 @@
 #import <CartySDK/CTInterstitialAd.h>
 #import <CartySDK/CTRewardedVideoAd.h>
 #import <CartySDK/CTNativeAd.h>
-#import <CartySDK/CTOpenAd.h>
+#import <CartySDK/CTAppOpenAd.h>
 
 typedef enum : NSUInteger {
     CTLogAll        = 0,
