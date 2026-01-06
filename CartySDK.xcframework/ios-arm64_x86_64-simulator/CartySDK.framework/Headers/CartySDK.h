@@ -18,11 +18,11 @@ typedef enum : NSUInteger {
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface CartySDK : NSObject
+@interface CartyADSDK : NSObject
 
 + (NSString *)sdkVersion;
 
-+ (CartySDK*)sharedInstance;
++ (CartyADSDK*)sharedInstance;
 
 + (void)setLogLevel:(CTLogLevel)level;
 

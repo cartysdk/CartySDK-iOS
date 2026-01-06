@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/CartySDK.h</key>
 		<data>
-		sC3h/KMc+2DKFjIMH0xPNrgQSvs=
+		YGIIlkPDvxqCbbVBbD5HwDXwcwU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sH4LCDjDMDMX+FSdnIpQFcbTZHs=
+		+Oc6D7Ph0YGusRNTPDBY6I3YtLM=
 		</data>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		650VFgVQWDMIsTICXuRnSYWFnGo=
+		bpynDrNooMvSG9B1VxG4+CGHBCM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -161,11 +161,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sC3h/KMc+2DKFjIMH0xPNrgQSvs=
+			YGIIlkPDvxqCbbVBbD5HwDXwcwU=
 			</data>
 			<key>hash2</key>
 			<data>
-			o8/bw99lJH3fMNZMkTelW/pFFWvQ8cyH1JVU+lAqtqs=
+			eX4lw/nPZMCZ+QpkqW5T78W+juIAbqf6+n3eGxqtst0=
 			</data>
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
@@ -238,11 +238,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sH4LCDjDMDMX+FSdnIpQFcbTZHs=
+			+Oc6D7Ph0YGusRNTPDBY6I3YtLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			F6Cck7mHaKKd2zvCtdKpakRTlfwWALtr7M6AwuL1t3A=
+			wSTcBuQrohpiG/NaM+WeSu5iWKG6AkmX28aN2Hv1jkI=
 			</data>
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -293,11 +293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			650VFgVQWDMIsTICXuRnSYWFnGo=
+			bpynDrNooMvSG9B1VxG4+CGHBCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Faoo0E/SnzAtOrBBePTAKBpHHkFVCghNFgwQGk/YEqs=
+			XQtJ7yYrIzHkHOXYUjm+Jifeol3K/eGUPcK24zd37sg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
