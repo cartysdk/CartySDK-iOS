@@ -24,17 +24,16 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,readonly)BOOL isLoading;
 @property (nonatomic,readonly)BOOL isVideo;
 @property (nonatomic,readonly)NSString *_Nullable title;
-@property (nonatomic,readonly)NSString *_Nullable sponsored;
 @property (nonatomic,readonly)NSString *_Nullable desc;
-@property (nonatomic,readonly)NSString *_Nullable rating;
-@property (nonatomic,readonly)NSString *_Nullable likes;
 @property (nonatomic,readonly)NSString *_Nullable ctaText;
 @property (nonatomic,readonly)NSString *_Nullable iconImageURL;
 @property (nonatomic,readonly)CGFloat iconHeight;
 @property (nonatomic,readonly)CGFloat iconWidth;
-@property (nonatomic,readonly)NSString *_Nullable logoImageURL;
 @property (nonatomic,readonly)UIView *_Nullable adChoiceView;
 @property (nonatomic,readonly)UIView *_Nullable mediaView;
+@property (nonatomic,readonly)NSString *_Nullable sponsored;
+@property (nonatomic,readonly)NSString *_Nullable rating;
+@property (nonatomic,readonly)NSString *_Nullable likes;
 @end
 
 @protocol CTNativeAdDelegate <NSObject>

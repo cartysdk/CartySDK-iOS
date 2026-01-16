@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "CartySDK"
-  spec.version      = "0.5.1"
+  spec.version      = "0.6.0"
   spec.summary      = "CartySDK"
   spec.description  = <<-DESC
              CartySDK for iOS. 

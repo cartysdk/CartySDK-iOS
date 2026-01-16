@@ -14,6 +14,11 @@ typedef enum : NSUInteger {
     CTBannerSizeType300x250
 } CTBannerSizeType;
 
+typedef enum : NSUInteger {
+    CTBannerContentModeScaleToFill,
+    CTBannerContentModeCenter
+} CTBannerContentMode;
+
 @interface CTBannerAd : UIView
 
 - (void)loadAd;
@@ -24,6 +29,7 @@ typedef enum : NSUInteger {
 @property (nonatomic,weak)id <CTBannerAdDelegate> delegate;
 @property (nonatomic,readonly)BOOL isLoading;
 @property (nonatomic,assign)CTBannerSizeType bannerSize;
+@property (nonatomic,assign)CTBannerContentMode contentMode;
 @end
 
 
