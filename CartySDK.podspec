@@ -18,7 +18,7 @@ Pod::Spec.new do |spec|
   spec.default_subspecs = 'CartySDK'
 
   spec.subspec 'CartySDK' do |ss|
-     ss.ios.deployment_target = '12.0'
+     ss.ios.deployment_target = '13.0'
      ss.vendored_frameworks = ['CartySDK.xcframework']
      ss.resources = ['CartySDKResources.bundle']
   end
