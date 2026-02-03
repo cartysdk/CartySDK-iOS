@@ -45,6 +45,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,copy)NSString *userid;
 @property (nonatomic,readonly)BOOL didStart;
 @property (nonatomic,readonly)NSString *appid;
+@property (nonatomic,copy)NSString *mediation;
 @end
 
 NS_ASSUME_NONNULL_END
