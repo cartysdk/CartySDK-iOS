@@ -34,6 +34,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,readonly)NSString *_Nullable sponsored;
 @property (nonatomic,readonly)NSString *_Nullable rating;
 @property (nonatomic,readonly)NSString *_Nullable likes;
+
+@property (nonatomic,readonly)BOOL isTemplate;
+@property (nonatomic,readonly)UIView *_Nullable templateView;
+
 @end
 
 @protocol CTNativeAdDelegate <NSObject>
