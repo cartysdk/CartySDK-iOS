@@ -6,23 +6,23 @@
 	<dict>
 		<key>Headers/CTAppOpenAd.h</key>
 		<data>
-		PdWPKA/1rJf3tIW3nDS23vQCwVE=
+		QAuCKCMrrOvsap/PT/tqNGTFYww=
 		</data>
 		<key>Headers/CTBannerAd.h</key>
 		<data>
-		hS35K8K5+/lA0VmKfBy7/lTvfh4=
+		bJq383U6xiZBfYIiDH7vmh0qw8g=
 		</data>
 		<key>Headers/CTInterstitialAd.h</key>
 		<data>
-		CcW2dDEzLkkMNH4n5ZupDpdUU30=
+		QmCr/2cwCAeng0LCSfb/6tz9pqs=
 		</data>
 		<key>Headers/CTNativeAd.h</key>
 		<data>
-		RAd1tQY5VT3qh5wPu6uv9Z5Pr10=
+		YjyNsJTmmGHj4xQwXOessHq+u+Y=
 		</data>
 		<key>Headers/CTRewardedVideoAd.h</key>
 		<data>
-		x9GrpPrBQG8Dpj6lvC5VO6bzhiI=
+		TyNt5uyVtB6PAB/m+JbNqciuwOM=
 		</data>
 		<key>Headers/CartySDK-Swift.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rxLp4qsh/9AnSZoy7XAJm96/hEI=
+		TZ2ywfVyckXuyN7fymtTIHOcb3o=
 		</data>
 		<key>Modules/CartySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -95,55 +95,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PdWPKA/1rJf3tIW3nDS23vQCwVE=
+			QAuCKCMrrOvsap/PT/tqNGTFYww=
 			</data>
 			<key>hash2</key>
 			<data>
-			r5OAIq6IKaBOUD38ND6ylsPf8F++FBZkPfhjqrnl32Q=
+			z/cgJjgN6vrN1MI6OiGJ5l3OLAVcbunEBIlgaXSvxvc=
 			</data>
 		</dict>
 		<key>Headers/CTBannerAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hS35K8K5+/lA0VmKfBy7/lTvfh4=
+			bJq383U6xiZBfYIiDH7vmh0qw8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			XnuPTtLR22F6iQVVZ4PbBsk4mP9fz6II8bXD1iR40X8=
+			nAmWXMdGtcP+uKYyi/fT7feCfWC7uU1AJ1KG2CTNQZg=
 			</data>
 		</dict>
 		<key>Headers/CTInterstitialAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CcW2dDEzLkkMNH4n5ZupDpdUU30=
+			QmCr/2cwCAeng0LCSfb/6tz9pqs=
 			</data>
 			<key>hash2</key>
 			<data>
-			2Cuc6OpylI8H5Qx/esJ6VbzI8xZOhbsnYthsUs8pwvs=
+			qnliO99qrIEZobK7oDEJJjzkfYU/NdgMvXeSpTriW7M=
 			</data>
 		</dict>
 		<key>Headers/CTNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RAd1tQY5VT3qh5wPu6uv9Z5Pr10=
+			YjyNsJTmmGHj4xQwXOessHq+u+Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ozijk3xWut/O3HLTeQOh2HEcuqv5n42NJPynvcKqOU=
+			D+qThbkwXCSib0mf97zUWEfD5eQ5xq3b+no14L8S6/I=
 			</data>
 		</dict>
 		<key>Headers/CTRewardedVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x9GrpPrBQG8Dpj6lvC5VO6bzhiI=
+			TyNt5uyVtB6PAB/m+JbNqciuwOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XhusoX6zDgA+2qCpAzq3/9TUOjffXH0zOfTxwFcPybI=
+			ws6mXAHNdXaaDsMwjr2R7PZKZrhe3ma+COhtjpvIlhE=
 			</data>
 		</dict>
 		<key>Headers/CartySDK-Swift.h</key>

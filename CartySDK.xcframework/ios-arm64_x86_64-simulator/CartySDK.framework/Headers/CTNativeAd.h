@@ -17,6 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
        withClickableViews:(NSArray<UIView *> *_Nullable)clickableViews;
 
 @property (nonatomic,assign)BOOL isMute;
+@property (nonatomic,readonly)double ecpm;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)UIViewController *rootViewController;
 @property (nonatomic,weak)id <CTNativeAdDelegate> delegate;

@@ -16,6 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (BOOL)isReady;
 
 @property (nonatomic,assign)BOOL isMute;
+@property (nonatomic,readonly)double ecpm;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)id <CTAppOpenAdDelegate> delegate;
 @property (nonatomic,readonly)BOOL isLoading;
