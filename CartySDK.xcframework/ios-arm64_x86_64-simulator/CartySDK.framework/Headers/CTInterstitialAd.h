@@ -17,6 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic,assign)BOOL isMute;
 @property (nonatomic,readonly)double ecpm;
+@property (nonatomic,readonly)NSString *requestid;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)id <CTInterstitialAdDelegate> delegate;
 @property (nonatomic,readonly)BOOL isLoading;

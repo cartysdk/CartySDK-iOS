@@ -25,6 +25,7 @@ typedef enum : NSUInteger {
 
 @property (nonatomic,assign)BOOL isMute;
 @property (nonatomic,readonly)double ecpm;
+@property (nonatomic,readonly)NSString *requestid;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)UIViewController *rootViewController;
 @property (nonatomic,weak)id <CTBannerAdDelegate> delegate;
