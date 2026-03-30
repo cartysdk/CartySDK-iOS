@@ -11,17 +11,22 @@ NS_ASSUME_NONNULL_BEGIN
 @interface CTRewardedVideoAd : NSObject
 
 - (void)loadAd;
+- (void)loadWithAdmString:(NSString *)adm;
 - (void)showAd;
 - (void)showAd:(UIViewController *)rootViewController;
 - (BOOL)isReady;
 
 @property (nonatomic,assign)BOOL isMute;
-@property (nonatomic,readonly)double ecpm;
 @property (nonatomic,readonly)NSString *requestid;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)id <CTRewardedVideoAdDelegate> delegate;
 @property (nonatomic,readonly)BOOL isLoading;
 @property (nonatomic,copy)NSString *customRewardString;
+
+//client-side bidding
+@property (nonatomic,readonly)double ecpm;
+- (void)bidWin:(NSString *)secondPirce;
+- (void)bidLoss:(NSString *)topPrice;
 @end
 
 

@@ -12,16 +12,21 @@ NS_ASSUME_NONNULL_BEGIN
 @interface CTNativeAd : NSObject
 
 - (void)loadAd;
+- (void)loadWithAdmString:(NSString *)adm;
 - (BOOL)isReady;
 - (void)registerContainer:(UIView *)containerView
        withClickableViews:(NSArray<UIView *> *_Nullable)clickableViews;
 
 @property (nonatomic,assign)BOOL isMute;
-@property (nonatomic,readonly)double ecpm;
 @property (nonatomic,readonly)NSString *requestid;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)UIViewController *rootViewController;
 @property (nonatomic,weak)id <CTNativeAdDelegate> delegate;
+
+//client-side bidding
+@property (nonatomic,readonly)double ecpm;
+- (void)bidWin:(NSString *)secondPirce;
+- (void)bidLoss:(NSString *)topPrice;
 
 @property (nonatomic,readonly)BOOL isLoading;
 @property (nonatomic,readonly)BOOL isVideo;

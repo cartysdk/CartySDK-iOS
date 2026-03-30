@@ -22,9 +22,9 @@ typedef enum : NSUInteger {
 @interface CTBannerAd : UIView
 
 - (void)loadAd;
+- (void)loadWithAdmString:(NSString *)adm;
 
 @property (nonatomic,assign)BOOL isMute;
-@property (nonatomic,readonly)double ecpm;
 @property (nonatomic,readonly)NSString *requestid;
 @property (nonatomic,copy)NSString *placementid;
 @property (nonatomic,weak)UIViewController *rootViewController;
@@ -32,6 +32,11 @@ typedef enum : NSUInteger {
 @property (nonatomic,readonly)BOOL isLoading;
 @property (nonatomic,assign)CTBannerSizeType bannerSize;
 @property (nonatomic,assign)CTBannerContentMode contentMode;
+
+//client-side bidding
+@property (nonatomic,readonly)double ecpm;
+- (void)bidWin:(NSString *)secondPirce;
+- (void)bidLoss:(NSString *)topPrice;
 @end
 
 
