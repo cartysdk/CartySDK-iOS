@@ -22,6 +22,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,weak)id <CTAppOpenAdDelegate> delegate;
 @property (nonatomic,readonly)BOOL isLoading;
 
+//USD
+@property (nonatomic,assign)CGFloat bidfloor;
 //client-side bidding
 @property (nonatomic,readonly)double ecpm;
 - (void)bidWin:(NSString *)secondPirce;

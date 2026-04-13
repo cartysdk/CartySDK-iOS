@@ -23,6 +23,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,weak)UIViewController *rootViewController;
 @property (nonatomic,weak)id <CTNativeAdDelegate> delegate;
 
+//USD
+@property (nonatomic,assign)CGFloat bidfloor;
 //client-side bidding
 @property (nonatomic,readonly)double ecpm;
 - (void)bidWin:(NSString *)secondPirce;

@@ -6,23 +6,23 @@
 	<dict>
 		<key>Headers/CTAppOpenAd.h</key>
 		<data>
-		9FMZeUoWaQ4XzFmry64doCGWmxc=
+		rYutxKujre18R5fmy/9mfKJZkf8=
 		</data>
 		<key>Headers/CTBannerAd.h</key>
 		<data>
-		Xe3xVXg3Wsxx57MiTSxNCZoYLdQ=
+		lMN4Ze16yCe1bmp+wxSYSWlXIr8=
 		</data>
 		<key>Headers/CTInterstitialAd.h</key>
 		<data>
-		q7PPGlgU07ECPsfNh922NSBJcm4=
+		0ooj1TQ1834+P9mjx/de4vITL88=
 		</data>
 		<key>Headers/CTNativeAd.h</key>
 		<data>
-		pYvNYryH867YsLiVuAC2dr5wV8c=
+		kpTkw3l9ttELvO2IwP19hmfhDGA=
 		</data>
 		<key>Headers/CTRewardedVideoAd.h</key>
 		<data>
-		rCTmWcVKvMyzwETdR4KWtRFojvY=
+		2DoY0hwYTqrizyi506iTwwz0OEA=
 		</data>
 		<key>Headers/CartySDK-Swift.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2s0E9ckaAgdPuCBI7eXQI0IfqGs=
+		s5IcfPLFTsrNDLE/L1ArOOH1tCs=
 		</data>
 		<key>Modules/CartySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+Oc6D7Ph0YGusRNTPDBY6I3YtLM=
+		5SzWox6hOIudZaQQ58gGuJKPOPY=
 		</data>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bpynDrNooMvSG9B1VxG4+CGHBCM=
+		AztfwoTbEBS0ZEbBJGNkn1Fhb2U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,55 +95,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9FMZeUoWaQ4XzFmry64doCGWmxc=
+			rYutxKujre18R5fmy/9mfKJZkf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			YRdI/1yGTg05/n/8ZdcdbBC6Q3Om4E+MDehhDj1j6FM=
+			HZgMNl9v5NJUNDZ9nn20I/+7Zx2Fch+ym/ErRstQyuw=
 			</data>
 		</dict>
 		<key>Headers/CTBannerAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xe3xVXg3Wsxx57MiTSxNCZoYLdQ=
+			lMN4Ze16yCe1bmp+wxSYSWlXIr8=
 			</data>
 			<key>hash2</key>
 			<data>
-			4/OEIa73xvS3o0RPJS6/Pw7fHbPnoU3QdxcSI8RLivE=
+			upsrEO+ZOwU2+UujRPP7lUxUkS39pKQxgllx8TJyC7o=
 			</data>
 		</dict>
 		<key>Headers/CTInterstitialAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q7PPGlgU07ECPsfNh922NSBJcm4=
+			0ooj1TQ1834+P9mjx/de4vITL88=
 			</data>
 			<key>hash2</key>
 			<data>
-			VXmShRfdnp+0keHfVkLv0dOlfLtxOewzp+kMUE3/OkA=
+			CqtjQPlNSHzzwcM2PI+L94dPKPRYTawVKISvmCnJrXU=
 			</data>
 		</dict>
 		<key>Headers/CTNativeAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pYvNYryH867YsLiVuAC2dr5wV8c=
+			kpTkw3l9ttELvO2IwP19hmfhDGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			CetBfJqrpWTVaYUwMA3PbWFeIH0WTqT4NgA/6NApP08=
+			5mSIEUlgbIZAu57SgBL4vzNWo9qGt+Mu2CaC/UnkGgc=
 			</data>
 		</dict>
 		<key>Headers/CTRewardedVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rCTmWcVKvMyzwETdR4KWtRFojvY=
+			2DoY0hwYTqrizyi506iTwwz0OEA=
 			</data>
 			<key>hash2</key>
 			<data>
-			AmjXlHOJvzAwqd9xXpjcJFGErtHhNO9cw9j6oE+fJbc=
+			5vXJL0XvJNX1XngimlD5Cd/NjVQA4VvQ58/1nBbXQtc=
 			</data>
 		</dict>
 		<key>Headers/CartySDK-Swift.h</key>
@@ -238,11 +238,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Oc6D7Ph0YGusRNTPDBY6I3YtLM=
+			5SzWox6hOIudZaQQ58gGuJKPOPY=
 			</data>
 			<key>hash2</key>
 			<data>
-			wSTcBuQrohpiG/NaM+WeSu5iWKG6AkmX28aN2Hv1jkI=
+			zpPqG3BV+F1NhZU+1qF2wlzEZt4291Ck5ajX/EAAFZ4=
 			</data>
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -293,11 +293,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bpynDrNooMvSG9B1VxG4+CGHBCM=
+			AztfwoTbEBS0ZEbBJGNkn1Fhb2U=
 			</data>
 			<key>hash2</key>
 			<data>
-			XQtJ7yYrIzHkHOXYUjm+Jifeol3K/eGUPcK24zd37sg=
+			E7FAUlNXx1Tfhp230AVWrzhlCHWH4nX2QjFo96rJPGQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

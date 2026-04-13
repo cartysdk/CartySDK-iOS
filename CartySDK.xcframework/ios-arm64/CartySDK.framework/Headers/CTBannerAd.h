@@ -33,6 +33,8 @@ typedef enum : NSUInteger {
 @property (nonatomic,assign)CTBannerSizeType bannerSize;
 @property (nonatomic,assign)CTBannerContentMode contentMode;
 
+//USD
+@property (nonatomic,assign)CGFloat bidfloor;
 //client-side bidding
 @property (nonatomic,readonly)double ecpm;
 - (void)bidWin:(NSString *)secondPirce;
