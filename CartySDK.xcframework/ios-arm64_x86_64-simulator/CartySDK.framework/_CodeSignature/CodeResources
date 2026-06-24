@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S2butxhuUrAIeay8Em0A82O/Kn8=
+		XXG46wKDbmVi9XRQfsUmSYnzDqk=
 		</data>
 		<key>Modules/CartySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -93,10 +93,6 @@
 	<dict>
 		<key>Headers/CTAppOpenAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rYutxKujre18R5fmy/9mfKJZkf8=
-			</data>
 			<key>hash2</key>
 			<data>
 			HZgMNl9v5NJUNDZ9nn20I/+7Zx2Fch+ym/ErRstQyuw=
@@ -104,10 +100,6 @@
 		</dict>
 		<key>Headers/CTBannerAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lMN4Ze16yCe1bmp+wxSYSWlXIr8=
-			</data>
 			<key>hash2</key>
 			<data>
 			upsrEO+ZOwU2+UujRPP7lUxUkS39pKQxgllx8TJyC7o=
@@ -115,10 +107,6 @@
 		</dict>
 		<key>Headers/CTInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0ooj1TQ1834+P9mjx/de4vITL88=
-			</data>
 			<key>hash2</key>
 			<data>
 			CqtjQPlNSHzzwcM2PI+L94dPKPRYTawVKISvmCnJrXU=
@@ -126,10 +114,6 @@
 		</dict>
 		<key>Headers/CTNativeAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kpTkw3l9ttELvO2IwP19hmfhDGA=
-			</data>
 			<key>hash2</key>
 			<data>
 			5mSIEUlgbIZAu57SgBL4vzNWo9qGt+Mu2CaC/UnkGgc=
@@ -137,10 +121,6 @@
 		</dict>
 		<key>Headers/CTRewardedVideoAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2DoY0hwYTqrizyi506iTwwz0OEA=
-			</data>
 			<key>hash2</key>
 			<data>
 			5vXJL0XvJNX1XngimlD5Cd/NjVQA4VvQ58/1nBbXQtc=
@@ -148,10 +128,6 @@
 		</dict>
 		<key>Headers/CartySDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vU8BP/sakOfw0a8JW7ySmMkSIUI=
-			</data>
 			<key>hash2</key>
 			<data>
 			YSYerThAqGCzf8LyN/H/XmGk7ioSA45U24r9u0seaIM=
@@ -159,10 +135,6 @@
 		</dict>
 		<key>Headers/CartySDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4Lab07o9BFItoi8+/beeyegT6wg=
-			</data>
 			<key>hash2</key>
 			<data>
 			tTU1PWyWsiCf+4QcVUwiIKF3Qn7IS4FYN1IKFlPrj2M=
@@ -170,10 +142,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6/Ywap5HrjBMK+OaDWmeLSqULDo=
-			</data>
 			<key>hash2</key>
 			<data>
 			3dCjyvFQS0fcmvogIwvaxkV2deRKxIdQVG0nVQD7EnI=
@@ -181,10 +149,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FMqQlMsQx8+SYYPje2eJvil+VmY=
-			</data>
 			<key>hash2</key>
 			<data>
 			lzeC/5QvbdlVIZb3LAUT30S38aAueV55jHNkzwztNKo=
@@ -192,10 +156,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u0OMOzMLjR3QLWvLtparv3wqFJQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			JfSzsRtM2a2kAvRXgCmHc+pRVN0nf6SPbfhKClkjhT0=
@@ -203,10 +163,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wMNlZOUTxQMRavGy/9Odi6kO8fA=
-			</data>
 			<key>hash2</key>
 			<data>
 			bZTbUoc1yk2dbOPz5ELIwCMDc36netjstQMHHqSgqjU=
@@ -214,10 +170,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AeuyzZwTZ0slZ7snVRp3GfJj3mU=
-			</data>
 			<key>hash2</key>
 			<data>
 			2kHeobeYkwgRxidHPGr3OzLsbRDLKdaJZWt1MzkSO0M=
@@ -225,10 +177,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wMNlZOUTxQMRavGy/9Odi6kO8fA=
-			</data>
 			<key>hash2</key>
 			<data>
 			bZTbUoc1yk2dbOPz5ELIwCMDc36netjstQMHHqSgqjU=
@@ -236,10 +184,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5SzWox6hOIudZaQQ58gGuJKPOPY=
-			</data>
 			<key>hash2</key>
 			<data>
 			zpPqG3BV+F1NhZU+1qF2wlzEZt4291Ck5ajX/EAAFZ4=
@@ -247,10 +191,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u0OMOzMLjR3QLWvLtparv3wqFJQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			JfSzsRtM2a2kAvRXgCmHc+pRVN0nf6SPbfhKClkjhT0=
@@ -258,10 +198,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QBN6o9g0T94tA1SGfpufxFvrqDM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hf2g5aKtyvScD7ItbdDQ7BVM89DUpRtPRMuS6P7mgu0=
@@ -269,10 +205,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o/E6iDAGFIivnQsKzOLy+fnl+wM=
-			</data>
 			<key>hash2</key>
 			<data>
 			xWXcAA1gsaerAn9LgI6cuXqdtdehwPEG6Ib31zgofoo=
@@ -280,10 +212,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QBN6o9g0T94tA1SGfpufxFvrqDM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Hf2g5aKtyvScD7ItbdDQ7BVM89DUpRtPRMuS6P7mgu0=
@@ -291,10 +219,6 @@
 		</dict>
 		<key>Modules/CartySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AztfwoTbEBS0ZEbBJGNkn1Fhb2U=
-			</data>
 			<key>hash2</key>
 			<data>
 			E7FAUlNXx1Tfhp230AVWrzhlCHWH4nX2QjFo96rJPGQ=
@@ -302,10 +226,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nvwhZnjsLZCXgclRKSajuWlkLq8=
-			</data>
 			<key>hash2</key>
 			<data>
 			UL3Z8lTibVXSDhZeoP6DAVjyMJJnf1CgsvJF2hE5iK4=
