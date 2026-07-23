@@ -7,6 +7,7 @@
 #import <CartySDK/CTRewardedVideoAd.h>
 #import <CartySDK/CTNativeAd.h>
 #import <CartySDK/CTAppOpenAd.h>
+#import <CartySDK/CTInteractiveAd.h>
 
 typedef enum : NSUInteger {
     CTLogLevelAll        = 0,
